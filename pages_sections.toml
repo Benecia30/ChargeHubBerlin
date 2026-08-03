@@ -1,0 +1,15 @@
+[[pages]]
+path = "app.py"
+name = "Charging-Hub"
+icon = "🏠"
+
+[[pages]]
+path = "src/streamlit_pages/report_issues.py"
+name = "Report Issue"
+icon = "⚓"
+
+[[pages]]
+path = "src/streamlit_pages/search.py"
+name = "Search"
+icon = "🔍"
+
